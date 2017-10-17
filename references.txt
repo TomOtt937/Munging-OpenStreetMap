@@ -1,0 +1,9 @@
+Web Sites:
+openstreetmap.org
+wiki.openstreetmap.org
+python.org
+stackoverflow.com
+udacity.com - Data Analytics Nanodegree lessons
+
+Books:
+Forta, Ben, 'Sams Teach Yourself SQL in 10 Minutes', 4th ed.
