@@ -3,17 +3,11 @@ This data wrangling project was completed for the Udacity.com Data Analyst Nanod
 
 ## Documents
 * CentervilleArea2.osm – OpenStreetMap dataset used for testing.
-       Pulled from http://overpass-api.de/query_form.html
-       Test dataset bounds:
-        minlat: 39.5861000
-        maxlon: -84.0799000
-        minlon: -84.1905000
-        maxlat: 39.6754000
-      Full dataset bounds:
-        minlat: 39.4821000
-        maxlon: -83.9723000
-        minlon: -84.4543000
-        maxlat: 39.9255000
+  * Data pulled from http://overpass-api.de/query_form.html using bounds
+    * minlat: 39.5861000
+    * maxlon: -84.0799000
+    * minlon: -84.1905000
+    * maxlat: 39.6754000
 
 * OpenStreetMap Project - Ott.pdf – This file documents the data wrangling process and was knitted from Jupyter Notebook.
 
